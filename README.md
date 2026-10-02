@@ -165,10 +165,41 @@ NeuroPlay-AI/
 ├── model.pkl
 ├── requirements.txt
 ├── README.md
-└── images/
+└── Screenshots/
 ```
 
 ---
+
+
+## 📸 Screenshots
+
+### 📊 Exploratory Data Analysis
+
+![EDA](screenshots/EDA.png)
+
+### ⚙️ Hyperparameter Tuning
+
+![Hyperparameter Tuning](screenshots/Hyperparameter%20Tuning.png)
+
+### 🔮 Prediction Engine
+
+![Prediction Engine](screenshots/prediction_engine.png)
+
+### 💡 Recommendation Engine
+
+![Recommendation Engine](screenshots/recommendation_engine.png)
+
+### 🧠 SHAP Explanation
+
+![SHAP Summary](screenshots/shap_summary.png)
+
+### 🔄 What-If Simulator
+
+![What-If Simulator](screenshots/what_if_simulator.png)
+
+
+---
+
 
 ## 🚀 Future Improvements
 
